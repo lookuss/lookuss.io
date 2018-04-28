@@ -1,1 +1,1 @@
-# lookuss.github.com
+# lookuss.github.io
